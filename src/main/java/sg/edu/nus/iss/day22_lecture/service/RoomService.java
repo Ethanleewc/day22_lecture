@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 import sg.edu.nus.iss.day22_lecture.model.Room;
 import sg.edu.nus.iss.day22_lecture.repo.RoomRepo;
 
+//Can use shortcut by add implements RoomRepo and then quickfix
 @Service
 public class RoomService {
     
